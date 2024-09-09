@@ -1,0 +1,280 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+.divkotta1{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+    gap: 1px;
+}
+.studentdiv1{
+    border-bottom: 1px solid red;
+    width: 357px;
+    height: 32px;
+    background-color: #EEEEEE;
+    padding-left: 15px;
+    padding-top: 8px;
+}
+.studentdiv2{
+    width: 105px;
+    height: 32px;
+    background-color: #F5F4F9;
+    padding-left: 35px;
+    padding-top: 8px;
+}
+.studentdiv3{
+    width: 169px;
+    height: 32px;
+    background-color: #F5F4F9;
+    padding-left: 40px;
+    padding-top: 8px;
+}
+.studentdiv4{
+    width: 119px;
+    height: 32px;
+    background-color: #F5F4F9;
+    padding-left: 32px;
+    padding-top: 8px;
+}
+.studentdiv5{
+    width: 101px;
+    height: 32px;
+    background-color: #F5F4F9;
+    padding-left: 28px;
+    padding-top: 8px;
+}
+.studentdiv6{
+    border-bottom: 1px solid red;
+    width: 118px;
+    height: 32px;
+    background-color: #FFEEEA;
+    padding-left: 32px;
+    padding-top: 8px;
+}
+.studentdiv7{
+    width: 300px;
+    height: 32px;
+    background-color: #F5F4F9;
+    padding-left: 165px;
+    padding-top: 8px;
+}
+.span1{
+    color: red;
+}
+.ismikottasi{
+    width: 368px;
+    background-color: #FFFFFF;
+    padding-left: 15px;  
+}
+.ismilar{
+    padding-top: 20px;
+    border-right: 3px solid #E2E2E2 ;
+}
+.tiplarnikottasi{
+    width: 105px;
+    background-color: #FFFFFF;
+    padding-left: 15px;
+}
+.tiplar{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.tipisim{
+    display: flex;
+}
+.sanakottasi{
+    width: 120px;
+    background-color: #FFFFFF;
+    padding-left: 15px;
+}
+.sana{
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.son{
+    margin-left: 75px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.sonikottasi{
+    width: 130px;
+    background-color: #FFFFFF;
+    padding-left: 15px;
+}
+.davomat{
+    margin-left: 65px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.davomatkottasi{
+    width: 105px;
+    background-color: #FFFFFF;
+    padding-left: 15px;
+}
+.knopka{
+    width: 120px;
+}
+.tugma{
+    display: flex;
+    background-color: red;
+    padding-left: 5px;
+    margin-left: 80px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+    width: 25px;
+    height: 22px;
+}
+.tugma11{
+    display: flex;
+    background-color: red;
+    padding-left: 5px;
+    margin-left: 80px;
+    padding-left: 10px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    border: none;
+    border-radius: 4px;
+    width: 25px;
+    height: 22px;
+}
+.tugma111{
+    display: flex;
+    background-color: green;
+    padding-left: 5px;
+    margin-left: 80px;
+    padding-left: 10px;
+    margin-bottom: 18px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    width: 25px;
+    height: 22px;
+}
+.tugma1111{
+    display: flex;
+    background-color: green;
+    padding-left: 5px;
+    margin-left: 80px;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    width: 25px;
+    height: 22px;
+}
+.tugma11111{
+    display: flex;
+    background-color: green;
+    padding-left: 5px;
+    margin-left: 80px;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    width: 25px;
+    height: 22px;
+}
+.tugma1{
+    background-color: green;
+    margin-top: 20px;
+    display: flex;
+    margin-left: 80px;
+    padding-left: 10px;
+    margin-bottom: 12px;
+    width: 25px;
+    height: 22px;
+    border: none;
+    border-radius: 4px;
+}
+.tugma2{
+    margin-top: 14px;
+    margin-left: 80px;
+    padding-left: 10px;
+    margin-bottom: 14px;
+    display: flex;
+    background-color: green;
+    width: 25px;
+    height: 22px;
+    border: none;
+    border-radius: 4px;
+}
+.tugma22{
+    margin-top: 14px;
+    margin-left: 80px;
+    padding-left: 10px;
+    margin-bottom: 16px;
+    display: flex;
+    background-color: green;
+    width: 25px;
+    height: 22px;
+    border: none;
+    border-radius: 4px;
+}
+.knopkatext1{
+    margin-top: 4px;
+    color: white;
+}
+.knopkatext2{
+    margin-top: 4px;
+    color: white;
+}
+
+
+
+.qizil{
+    background-color: red;
+    border: none;
+    border-radius: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 3px;
+}
+.yashil{
+    background-color: green;
+    border: none;
+    border-radius: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+.yashil1{
+    background-color: green;
+    border: none;
+    border-radius: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+.baho{
+    display: flex;
+    gap: 39px;
+    margin-top: 13px;
+    margin-left: 40px;
+    height: 30px;
+    border: none;
+    height: 24.8px;
+}
+.baho1{
+    display: flex;
+    gap: 39px;
+    margin-top: 20px;
+    margin-left: 40px;
+    height: 30px;
+    border: none;
+    height: 24.8px;
+}
+.b1{
+    display: inline-block;
+}
